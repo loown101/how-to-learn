@@ -1,0 +1,8 @@
+.footer__column_content_menu {
+  width: 50%;
+  min-height: 250px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}

@@ -1,0 +1,10 @@
+.footer__autor {
+  line-height: 25px;
+  font-size: 18px;
+
+  color: #fff;
+}
+
+.footer__autor:nth-of-type(n) {
+  padding: 18px 0;
+}

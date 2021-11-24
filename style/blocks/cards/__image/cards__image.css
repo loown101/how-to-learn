@@ -1,0 +1,9 @@
+.cards__image {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+}
+
+.cards__image:nth-of-type(n) {
+  margin-bottom: 43px;
+}

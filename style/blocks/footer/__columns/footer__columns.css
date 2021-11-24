@@ -1,0 +1,11 @@
+.footer__columns {
+  width: 90%;
+  margin: 0 auto;
+
+  display: flex;
+  justify-content: flex-start;
+}
+
+.footer__columns:nth-child(n) {
+  padding-top: 60px;
+}

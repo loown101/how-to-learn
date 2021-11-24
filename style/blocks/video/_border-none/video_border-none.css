@@ -1,0 +1,7 @@
+.video_border-none {
+  border: 0;
+}
+
+.video_border-none:last-of-type {
+  margin-left: 20px;
+}

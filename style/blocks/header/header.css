@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  align-items: center;
+
+  height: 100vh;
+  min-height: 600px;
+  max-height: 756px;
+
+  max-width: 1440px;
+
+  overflow: hidden;
+}
+
+
+.header:nth-child(n) {
+  margin-bottom: 100px;
+}
