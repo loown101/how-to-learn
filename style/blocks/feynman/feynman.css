@@ -1,4 +1,6 @@
 .feynman {
+  position: relative;
+
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -9,5 +11,10 @@
   background-position: 0% 100%;
   background-size: 867px 637px;
   background-repeat: no-repeat;
+
+  background-color: #f2f2f2;
 }
 
+.feynman:nth-child(n) {
+  margin-bottom: 100px;
+}

@@ -1,0 +1,8 @@
+.resources {
+  min-width: 1440px;
+}
+
+.resources:nth-child(n) {
+  padding-top: 100px;
+  padding-bottom: 217px;
+}

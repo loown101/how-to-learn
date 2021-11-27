@@ -1,7 +1,19 @@
 .section-title {
-  text-align: center;
+  width: 60%;
+
+  padding: 0;
+  margin: 0;
+
+  margin: 0 auto;
+
   line-height: 1.15;
   font-size: 60px;
   font-weight: bold;
+
+  text-align: center;
+}
+
+.section-title:nth-child(n) {
+  margin-bottom: 20px;
 }
 

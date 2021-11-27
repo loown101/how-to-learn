@@ -1,0 +1,12 @@
+
+.footer__column-links {
+  padding: 0;
+  margin: 0;
+
+  list-style: none;
+}
+
+.footer__column-links:nth-child(n) {
+  margin-bottom: 6px;
+}
+

@@ -1,0 +1,20 @@
+.footer__column-link {
+  display: inline-block;
+
+  left: 18px;
+  font-size: 18px;
+
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer__column-link:hover {
+  color: #d1d1d1;
+  transform: scale(1.1);
+}
+
+.footer__column-link:nth-of-type(n) {
+  margin-bottom: 10px;
+}
+
+

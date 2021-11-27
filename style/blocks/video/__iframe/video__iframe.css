@@ -1,12 +1,16 @@
 .video__iframe {
-  position: absolute;
+  width: 516px;
+  height: 316px;
 
-  top: 70%;
-  left:50%;
-  margin-right: -50%;
-  transform:translate(-50%, -50%);
+  border: 0;
+
+  padding: 0;
+  margin: 0;
+
+  margin: 0 auto;
 }
 
 .video__iframe:nth-child(n) {
   padding-top: 50px;
+  margin-bottom: -50px;
 }

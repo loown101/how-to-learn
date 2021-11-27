@@ -1,0 +1,15 @@
+.footer__column-heading {
+  line-height: 18px;
+  font-size: 18px;
+  font-weight: bold;
+
+  color: #fff;
+
+  margin: 0;
+  padding: 0;
+
+}
+
+.footer__column-heading:nth-of-type(n) {
+  margin-bottom: 20px;
+}

@@ -1,0 +1,11 @@
+.khan__quote-author-subline {
+  line-height: 1.15;
+  font-size: 24px;
+
+  padding: 0;
+  margin: 0;
+}
+
+.khan__quote-author-subline:nth-child(n) {
+  margin-bottom: 68px;
+}

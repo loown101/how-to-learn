@@ -1,9 +1,19 @@
 .cards {
-  width: 60%;
+  width: 920px;
+
+  padding: 0;
+  margin: 0;
+  list-style: none;
+
   margin: 0 auto;
 
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
   align-items: flex-start;
   flex-wrap: wrap;
+}
+
+.cards:nth-child(n) {
+  padding-top: 60px;
+  padding-bottom: 100px;
 }

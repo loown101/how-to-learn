@@ -1,5 +1,8 @@
 .table__text {
   line-height: 1.2;
   font-size: 18px;
+
+  padding: 0;
+  margin: 0;
 }
 
