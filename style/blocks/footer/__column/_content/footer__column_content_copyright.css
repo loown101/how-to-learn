@@ -1,5 +1,4 @@
 .footer__column_content_copyright {
-  min-height: 250px;
 
   display: flex;
   flex-direction: column;
@@ -9,6 +8,6 @@
 }
 
 .footer__column_content_copyright:nth-of-type(n) {
-  margin-right: 150px;
+  margin-right: 109px;
 }
 

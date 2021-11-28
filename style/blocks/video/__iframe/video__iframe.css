@@ -14,3 +14,7 @@
   padding-top: 50px;
   margin-bottom: -50px;
 }
+
+.video__iframe:nth-child(1) {
+  margin-right: 20px;
+}

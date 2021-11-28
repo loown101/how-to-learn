@@ -1,9 +1,8 @@
 .table_theme_dark {
-  width: 80%;
-
   background-color: #1f1f1f;
 }
 
 .table_theme_dark:nth-child(n) {
-  margin-top: 80px;
+  padding-top: 80px;
+  padding-bottom: 90px;
 }
