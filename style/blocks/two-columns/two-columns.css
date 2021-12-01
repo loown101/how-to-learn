@@ -7,6 +7,3 @@
   margin: 0 auto;
 }
 
-.two-columns:nth-child(n) {
-  padding-bottom: 100px;
-}
